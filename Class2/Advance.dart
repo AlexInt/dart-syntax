@@ -8,11 +8,11 @@ void main() {
   * 接口
   * Mixins，操作符的覆写
   * */
-  Student person = new Student("name");
-  (person as Student).study();
-  if(person is Student) {
+//  Student person = new Student("name");
+//  (person as Student).study();
+//  if(person is Student) {
 //    person.study();
-  }
+//  }
 
 }
 /*构造方法执行顺序
